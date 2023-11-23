@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hallar139" alt="hallar139" /></a> </p>
 
-- 🔭 I’m currently working as a Jr DevOps Engineer at **https://appedology.pk/**
+- 🔭 I’m currently working as a **Jr DevOps Engineer** at **https://appedology.pk/**
 
 - 🌱 I’m currently learning **Microsoft Azure, AWS and Kubernetes to enhance my skills**
 
