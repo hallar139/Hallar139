@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋, This is Hallar Ali</h1>
-<h3 align="center">I'm DevOps engineer and a Security Researcher</h3>
+<h3 align="center">I'm DevOps Engineer and a Security Researcher</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hallar139" alt="hallar139" /></a> </p>
 
-- 🔭 I’m currently working in **https://appedology.pk/**
+- 🔭 I’m currently working as a Jr DevOps Engineer at **https://appedology.pk/**
 
 - 🌱 I’m currently learning **Microsoft Azure, AWS and Kubernetes to enhance my skills**
 
