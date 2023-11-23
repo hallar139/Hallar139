@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, This is Hallar Ali</h1>
 <h3 align="center">I'm a DevOps engineer from Pakistan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-shaikh" alt="mustafa-shaikh" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hallar139" alt="hallar139" /></a> </p>
 
 - 🔭 I’m currently working in **Appedology PVT. LTD.**
 
@@ -10,10 +10,7 @@
 - 💬 Ask me about **Docker, Jenkins, and anything related to the DevOps Cycle**
 
 - 📫 How to reach me **hallar139@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/hallar/]
-- (https://www.linkedin.com/in/hallar/)
-
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
