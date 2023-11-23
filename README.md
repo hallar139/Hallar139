@@ -60,6 +60,51 @@
   <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kalilinux" width="40" height="40"/> 
 </a>
 
+
+
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+</a>
+
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
+</a>
+
+<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
+</a>
+
+
+<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
+</a>
+
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
+</a>
+
+<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/> 
+</a>
+
+<a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/> 
+</a>
+
+<!-- Assuming "zenmape" is a typo and you meant "zenmap" -->
+
+<a href="https://nmap.org/zenmap/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/nmap/nmap-icon.svg" alt="zenmap" width="40" height="40"/> 
+</a>
+
+<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kalilinux" width="40" height="40"/> 
+</a>
+
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
+  <img src="https://www.vectorlogo.zone/logos/burpzone/burpzone-icon.svg" alt="burpsuite" width="40" height="40"/> 
+</a>
+
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hallar139&show_icons=true&locale=en&layout=compact" alt="hallar139" /></p>
