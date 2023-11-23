@@ -61,16 +61,6 @@
 <!-- Zenmap -->
 <!-- It seems there's no official logo for Zenmap. Consider using a generic network icon or a relevant image. -->
 
-<!-- Kali Linux -->
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/kali/kali-icon.svg" alt="kalilinux" width="40" height="40"/> 
-</a>
-
-<!-- Burp Suite -->
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/burpzone/burpzone-icon.svg" alt="burpsuite" width="40" height="40"/> 
-</a>
-
 <!-- C -->
 <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
