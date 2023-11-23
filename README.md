@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mustafa-shaikh" alt="mustafa-shaikh" /></a> </p>
 
-- 🔭 I’m currently working on **in-house Survey Portal to fetch customer feedback so that companies can take better measurement to improve their customer experience**
+- 🔭 I’m currently working in **Appedology PVT. LTD.**
 
-- 🌱 I’m currently learning **Nginx, AWS and Unit Testing to enhance my skills**
+- 🌱 I’m currently learning **Microsoft Azure, AWS and Kubernetes to enhance my skills**
 
 - 💬 Ask me about **Docker, Jenkins, and anything related to the DevOps Cycle**
 
