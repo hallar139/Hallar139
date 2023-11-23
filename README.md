@@ -35,9 +35,6 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
 </a>
 
-<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
-  <img src="https://imgur.com/a/sCTM1A4" alt="burpsuite" width="40" height="40"/> 
-</a>
 
 <!-- CI/CD Pipelines -->
 <!-- You can use a generic CI/CD logo or the logo of a specific CI/CD tool you prefer -->
