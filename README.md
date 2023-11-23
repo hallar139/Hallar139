@@ -35,6 +35,10 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> 
 </a>
 
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmedium.com%2F%40JAlblas%2Ftryhackme-burp-suite-basics-walkthrough-209ab703d6a1&psig=AOvVaw2gxYHI3L0EFM5C33t0EY0c&ust=1700838927141000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIiryfO02oIDFQAAAAAdAAAAABAJ" alt="burpsuite" width="40" height="40"/> 
+</a>
+
 <!-- CI/CD Pipelines -->
 <!-- You can use a generic CI/CD logo or the logo of a specific CI/CD tool you prefer -->
 
