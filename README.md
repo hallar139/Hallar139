@@ -55,8 +55,8 @@
                                                                     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> 
                                                                       <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mustafa-shaikh&show_icons=true&locale=en&layout=compact" alt="mustafa-shaikh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hallar139&show_icons=true&locale=en&layout=compact" alt="hallar139" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mustafa-shaikh&show_icons=true&locale=en" alt="mustafa-shaikh" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hallar139&show_icons=true&locale=en" alt="hallar139" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafa-shaikh&" alt="mustafa-shaikh" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hallar139&" alt="hallar139" /></p>
